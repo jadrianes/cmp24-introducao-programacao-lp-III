@@ -52,8 +52,10 @@ for (let i = 0; i < 11; i++) {
 
 ## Desafios
 
-1. Um restaurante quer exibir no console um aviso automático de contagem regressiva para o horário de fechamento. Eles fecham em 5 horas. Escreva um loop for que conte de 5 a 1, exibindo a mensagem: "Faltam X horas para o fechamento", onde X diminui a cada volta do loop.
+1. Um restaurante quer exibir no console um aviso automático de contagem regressiva para o horário de fechamento. Eles fecham em 5 horas. Escreva um loop for que conte de 5 a 1, exibindo a mensagem: `"Faltam X horas para o fechamento"`, onde X diminui a cada volta do loop.
 
-2. Uma lista de nomes de convidados foi criada para uma festa, e você precisa garantir que todos recebam um convite. Dada a array `const convidados = ["Ana", "Pedro", "Luiza", "João", "Maria"];`, use um loop for para imprimir a mensagem "Convite enviado para [nome]", onde [nome] é o nome de cada convidado.
+2. Imprima os números de 0 até 40 na tela, dizendo se cada um é par ou impar e em seguida, quantos números pares e quantos números ímpares foram impressos.
 
-3. Uma equipe de desenvolvedores precisa corrigir o status de tarefas antigas em um sistema. Dado o array `const tarefas = [{descricao: "Tarefa 1", status: "Incompleta"}, {descricao: "Tarefa 2", status: "Incompleta"}, {descricao: "Tarefa 3", status: "Incompleta"}];`, crie um loop for que altere o status de cada tarefa para "Concluída" e exiba o array atualizado.
+3. Uma lista de nomes de convidados foi criada para uma festa, e você precisa garantir que todos recebam um convite. Dada a array `const convidados = ["Ana", "Pedro", "Luiza", "João", "Maria"];`, use um loop for para imprimir a mensagem "Convite enviado para [nome]", onde [nome] é o nome de cada convidado.
+
+4. Uma equipe de desenvolvedores precisa corrigir o status de tarefas antigas em um sistema. Dado o array `const tarefas = [{descricao: "Tarefa 1", status: "Incompleta"}, {descricao: "Tarefa 2", status: "Incompleta"}, {descricao: "Tarefa 3", status: "Incompleta"}];`, crie um loop for que altere o status de cada tarefa para "Concluída" e exiba o array atualizado.
