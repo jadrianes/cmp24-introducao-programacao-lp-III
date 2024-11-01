@@ -138,7 +138,7 @@ Crie uma função chamada `adicionarConvidado` que:
 
 1. Verifique se o convidado já está na lista `convidados`.
 2. Se o convidado **já estiver na lista**, exiba uma mensagem: `"O convidado [nome] já está na lista."`
-3. Se o convidado **não estiver na lista**, adicione-o.
+3. Se o convidado **não estiver na lista**, adicione-o e exiba uma mensagem: `"O convidado [nome] foi adicionado a lista."`
 4. Mostre a quantidade de convidados.
 
 #### Exemplo de Dados
