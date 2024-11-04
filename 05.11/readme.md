@@ -272,14 +272,7 @@ const vendas = [
 
 const contadorVendas = {};
 
-vendas.forEach((produto) => {
-  if (contadorVendas[produto]) {
-    contadorVendas[produto]++;
-  } else {
-    contadorVendas[produto] = 1;
-  }
-});
+// Use o método reduce() para calcular o total de vendas
 
-console.log(contadorVendas);
 // Saída esperada: { Celular: 3, Notebook: 2, Tablet: 1 }
 ```
